@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/_Algoritma/Array.md",
+                "file": "Bahasa/English/Noun.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/_Algoritma/Array.md",
+                "file": "Bahasa/English/Noun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/_Algoritma/Array.md",
+                "file": "Bahasa/English/Noun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/_Algoritma/Array.md"
+                "file": "Bahasa/English/Noun.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "23f31af6631ccce1",
   "lastOpenFiles": [
-    "Islam/Islam.md",
+    "Bahasa/English/Simple Present Tense.md",
+    "Bahasa/English/Noun.md",
     "Computer Science/_Algoritma/Array.md",
+    "Bahasa/English",
+    "Bahasa",
+    "Islam/Islam.md",
     "Computer Science/Kotlin/concept",
     "Computer Science/Dart/concept",
     "Computer Science/_Algoritma",
@@ -158,8 +162,6 @@
     "Computer Science/Dart/idom",
     "Computer Science/Dart/basic",
     "Computer Science/Kotlin/idom",
-    "Computer Science/Kotlin/basic",
-    "Computer Science/OOP",
     "Computer Science/Hello World Computer Science.md",
     "Welcome.md"
   ]
