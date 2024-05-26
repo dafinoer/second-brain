@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bahasa/English/Noun.md",
+                "file": "Computer Science/Fastline/APK Upload Firebase App Distribute.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bahasa/English/Noun.md",
+                "file": "Computer Science/Fastline/APK Upload Firebase App Distribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bahasa/English/Noun.md",
+                "file": "Computer Science/Fastline/APK Upload Firebase App Distribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bahasa/English/Noun.md"
+                "file": "Computer Science/Fastline/APK Upload Firebase App Distribute.md"
               }
             }
           }
@@ -148,7 +148,12 @@
   },
   "active": "23f31af6631ccce1",
   "lastOpenFiles": [
+    "Computer Science/Github/Integrasi Github SSH.md",
+    "Computer Science/Fastline/APK Upload Firebase App Distribute.md",
+    "Computer Science/Fastline",
     "Bahasa/English/Simple Present Tense.md",
+    "Computer Science/Github",
+    "Computer Science/Kotlin/concept/coroutine",
     "Bahasa/English/Noun.md",
     "Computer Science/_Algoritma/Array.md",
     "Bahasa/English",
@@ -159,9 +164,6 @@
     "Computer Science/_Algoritma",
     "Computer Science/OOP/dart",
     "Computer Science/OOP/kotlin",
-    "Computer Science/Dart/idom",
-    "Computer Science/Dart/basic",
-    "Computer Science/Kotlin/idom",
     "Computer Science/Hello World Computer Science.md",
     "Welcome.md"
   ]

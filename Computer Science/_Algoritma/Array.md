@@ -2,7 +2,7 @@ Array adalah *variable* satu nama, namun mengandung banyak nilai, dengan *fixed*
 
 Contoh menghitung [[Memory]] yaitu:
 
-> 100 item arrays dengan tipe int, yang mana int ini mempunyai memory sebesar 4 byte, maka 100 x 4 = 400 byte.
+>  100 item arrays dengan tipe int, yang mana int ini mempunyai memory sebesar 4 byte, maka 100 x 4 = 400 byte.
 
 ##### Static Array
 *Static Array* adalah ketika kita melakukan specify *length* pada *array*.

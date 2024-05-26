@@ -1,7 +1,6 @@
 Simple present Tenses biasanya dipakai untuk berbicara soal dialy habit atau daily routine.
 
 ---
-
 ## [[Verbal]]
 
 kata kerja pada umumnya terdiri dari kalimat positif, kalimat negatif, kalimat tanya,

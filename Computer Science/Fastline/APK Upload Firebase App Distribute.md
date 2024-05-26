@@ -1,0 +1,1 @@
+<script src="https://gist.github.com/dafinoer/7d9b03d84ed12286208276236ed98cc8.js"></script>
