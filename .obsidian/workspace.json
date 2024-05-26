@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "e69a8df82d9e46c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f1505b3a01f62f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23f31af6631ccce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/_Algoritma/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b08c34aa5bfb2b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b58f72b74b40ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5944aa1769cae5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96daaaca74555d73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bffe20c8add89fb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa3e204f078c7e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "642aa462a1e9ac83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d82f46f210ea93a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/_Algoritma/Array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d289e102816e65be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/_Algoritma/Array.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "321ddce6a3bcb067",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b51ddbc144bba3af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/_Algoritma/Array.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "23f31af6631ccce1",
+  "lastOpenFiles": [
+    "Islam/Islam.md",
+    "Computer Science/_Algoritma/Array.md",
+    "Computer Science/Kotlin/concept",
+    "Computer Science/Dart/concept",
+    "Computer Science/_Algoritma",
+    "Computer Science/OOP/dart",
+    "Computer Science/OOP/kotlin",
+    "Computer Science/Dart/idom",
+    "Computer Science/Dart/basic",
+    "Computer Science/Kotlin/idom",
+    "Computer Science/Kotlin/basic",
+    "Computer Science/OOP",
+    "Computer Science/Hello World Computer Science.md",
+    "Welcome.md"
+  ]
+}
