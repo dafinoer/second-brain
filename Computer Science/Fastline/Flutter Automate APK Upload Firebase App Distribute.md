@@ -53,7 +53,7 @@ platform :android do
         pathRoot = Dir.pwd
         apk_path = "#{pathRoot}/#{path_default}/app-dev-debug.apk"
         unless File.exist?(apk_path)
-            UI.user_error! "No Directory Apk"
+            UI.user_error! "No Directorypk"
         end
     end
 
@@ -62,7 +62,7 @@ platform :android do
        firebase_cli_token: ENV["FIREBASE_TOKEN"],
        debug: true,
        android_artifact_path: apk_path,
-       groups: "axiapp-tester"
+       groups: "<tester-group>"
     )
 
     notification(subtitle: "Finished Building", message: "APK Debug Ready to in App Distribute...")
