@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23f31af6631ccce1",
+            "id": "f4b4b2e9d556455b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Fastline/Flutter Automate APK Upload Firebase App Distribute.md",
+                "file": "Computer Science/Kotlin/concept/Equality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Fastline/Flutter Automate APK Upload Firebase App Distribute.md",
+                "file": "Computer Science/Kotlin/concept/Equality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Fastline/Flutter Automate APK Upload Firebase App Distribute.md",
+                "file": "Computer Science/Kotlin/concept/Equality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Fastline/Flutter Automate APK Upload Firebase App Distribute.md"
+                "file": "Computer Science/Kotlin/concept/Equality.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23f31af6631ccce1",
+  "active": "f4b4b2e9d556455b",
   "lastOpenFiles": [
-    "Computer Science/Github/Integrasi Github SSH.md",
     "Computer Science/Fastline/Flutter Automate APK Upload Firebase App Distribute.md",
+    "Computer Science/Kotlin/concept/Equality.md",
+    "Computer Science/Github/Integrasi Github SSH.md",
     "Computer Science/Fastline",
     "Bahasa/English/Simple Present Tense.md",
     "Computer Science/Github",
