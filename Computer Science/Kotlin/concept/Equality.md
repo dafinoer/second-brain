@@ -32,5 +32,3 @@ val person2 = Person("helo", age = 20)
 println(a === b)
 println(person === person2) // false
 ```
-
-l
